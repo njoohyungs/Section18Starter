@@ -10,9 +10,9 @@ import addRecipeView from './views/addRecipeView.js';
 
 // import icons from 'url:../../img/icons.svg';
 
-// import 'core-js/stable';
-// import 'regenerator-runtime/runtime';
-  //  import  { async } from 'regenerator-runtime';
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+   import  { async } from 'regenerator-runtime';
 
 
 
